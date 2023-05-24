@@ -12,4 +12,5 @@ console.log("incremental",+ i);
 //promt
 let a: string = "hola mundo"
 let nombre = prompt('hola')
-prompt('hola')
+prompt('hola') 
+var b = prompt
