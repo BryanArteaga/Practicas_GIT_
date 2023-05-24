@@ -9,7 +9,7 @@ let i: number = 10;
 i++;
 console.log("incremental",+ i);
 
-//ejemplo 2
-let a: number = 10;
-a--;
-console.log("Descremental=", -a)
+//promt
+let a: string = "hola mundo"
+let nombre = prompt('hola')
+prompt('hola')
